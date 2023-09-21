@@ -21,4 +21,3 @@ except ValueError:
     print('Please enter correct value')
 
 # Create by Palash Talukder.
-#Thanks
