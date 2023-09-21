@@ -1,4 +1,4 @@
-# Problem: String Searching and Replacing:
+# Problem 3: String Searching and Replacing:
 # •	Given a text containing a sample paragraph of text.
 # •	Write a Python program that reads this paragraph and searches for a “specific word” and display the number of occurrence of that word.
 # •	Replace all occurrences of the word with “replace with” word and display the modified text.
