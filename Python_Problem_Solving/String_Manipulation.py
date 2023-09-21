@@ -22,3 +22,5 @@ initials = names[0][0] + names[-1][0]
 print("Reverse name: ", reversed_name)
 print("Total characters: ", total_characters)
 print("Initionals: ", initials)
+
+# Create by Palash Talukder.
