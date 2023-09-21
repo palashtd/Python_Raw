@@ -1,4 +1,4 @@
-# Problem 1: Handling Division by Zero
+# Problem 1: Handling Division by Zero:
 # Guidelines:
 # •	Write a Python program that takes two numbers as input from the user.
 # •	Use a try-except block to handle the division operation.
